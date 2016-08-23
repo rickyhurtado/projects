@@ -1,1 +1,1 @@
-# triathlon-training-programs
+# Triathlon Training Programs
